@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=200&section=header&text=Taha%20Mahmoodi&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=Founder%20%40%20PIIIX&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/terminal_header.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=600&color=6C63FF&lines=Brand+Strategist;Problem+Solver;Web+Designer;Entrepreneur;Writing+Enthusiast" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&color=6C63FF&lines=Brand+Strategist;Problem+Solver;Web+Designer;Entrepreneur;Writing+Enthusiast" alt="Typing SVG" />
 
 [![PIIIX](https://img.shields.io/badge/PIIIX-Founder-6C63FF)](https://github.com/PIIIX-org)
 [![GitHub followers](https://img.shields.io/github/followers/Taha-Mahmoodi?label=Follow&style=social)](https://github.com/Taha-Mahmoodi)
@@ -22,23 +24,55 @@ PIIIX is where all of that lands.
 
 Open-source enthusiast. Builder first, title second.
 
-## What I'm building
+<br>
 
-**[PIIIX](https://github.com/PIIIX-org)** — an open-source company
-finding the gaps left in markets that look finished. Two products live
-right now:
+## Repository
 
-- **[Chapters](https://github.com/PIIIX-org/chapters)** — a self-hostable
-  knowledge base with an AI-navigable graph, MCP-first from the ground up
-- **[Vectory](https://github.com/PIIIX-org/vectory)** — a canvas that
-  writes real, inspectable HTML and CSS as you design
+<details>
+<summary>📁&nbsp;&nbsp;<b>piiix-org/</b> — open-source company, gaps in mature markets</summary>
+<br>
 
-## GitHub activity
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>chapters</b> — self-hostable, AI-navigable knowledge base</summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Backend shipped: Fastify, Yjs, Postgres + pgvector, local
+&nbsp;&nbsp;&nbsp;&nbsp;embeddings. MCP-first from the ground up. UI is next.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/PIIIX-org/chapters)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>vectory</b> — canvas that writes real HTML/CSS as you design</summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Architecture and competitive-research stage. The plan:
+&nbsp;&nbsp;&nbsp;&nbsp;a designer places shapes on a canvas, an LLM turns it into
+&nbsp;&nbsp;&nbsp;&nbsp;inspectable, exportable HTML and CSS.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/PIIIX-org/vectory)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>yildizim</b> — closed-source, gamified 3D knowledge galaxy</summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Private repository. 37 pull requests shipped, running live
+&nbsp;&nbsp;&nbsp;&nbsp;inside Chapters today: 60fps at 371,000 notes.
+<br><br>
+</details>
+
+</details>
 
 <br>
 
+## GitHub activity
+
+A year of real contribution data, plotted as a spiral: oldest week at the
+center, most recent at the edge, brightness scaled to commits that day.
+
 <div align="center">
-<img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Mahmoodi&theme=react-dark&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
+<img width="97%" src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/constellation.svg"/>
 </div>
 
 <br>
@@ -58,5 +92,5 @@ right now:
 Find the work at [github.com/PIIIX-org](https://github.com/PIIIX-org).
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/footer.svg" width="100%"/>
 </div>
