@@ -26,6 +26,27 @@ Open-source enthusiast. Builder first, title second.
 
 <br>
 
+## Stack
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+</div>
+
+<br>
+
 ## Repository
 
 <details>
@@ -64,23 +85,71 @@ Open-source enthusiast. Builder first, title second.
 
 </details>
 
+<details>
+<summary>📁&nbsp;&nbsp;<b>solo/</b> — things I built on my own</summary>
+<br>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>atlas-erp</b> — open-source, industry-agnostic ERP <code>Python</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A full ERP built in the open, with SAP S/4HANA as the
+&nbsp;&nbsp;&nbsp;&nbsp;functional benchmark to measure against.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/atlas-erp)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>third-eye-world</b> — voice-first audio social network <code>TypeScript</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A social network you use by ear. The blind user is the
+&nbsp;&nbsp;&nbsp;&nbsp;default user, not an accommodation bolted on afterward.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/third-eye-world)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>LLSGC</b> — local-server control panel <code>Electron</code> <code>React</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A desktop dashboard to monitor, stop, restart, and firewall
+&nbsp;&nbsp;&nbsp;&nbsp;every server bound to a local port. Electron + React + TypeScript.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/LLSGC)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>BFD</b> — bulk font downloader <code>PowerShell</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;An open-source, multi-provider desktop and CLI tool for
+&nbsp;&nbsp;&nbsp;&nbsp;downloading fonts in bulk.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/BFD)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>claude-usage-dashboard</b> — token-usage dashboard <code>TypeScript</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A personal dashboard tracking Claude Code token usage across
+&nbsp;&nbsp;&nbsp;&nbsp;devices on a shared plan.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/claude-usage-dashboard)
+<br><br>
+</details>
+
+</details>
+
 <br>
 
 ## GitHub activity
 
-A year of real contribution data, plotted as a spiral: oldest week at the
-center, most recent at the edge, brightness scaled to commits that day.
+A year of real commits, mapped to a night sky: each active day is a star
+rising from the timeline, brighter and higher the more I shipped that day.
 
 <div align="center">
-<img width="97%" src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/constellation.svg"/>
-</div>
-
-<br>
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Taha-Mahmoodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Mahmoodi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=Taha-Mahmoodi&theme=tokyonight&hide_border=true" />
+<img width="97%" src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/startimeline.svg"/>
 </div>
 
 <br>
