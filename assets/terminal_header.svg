@@ -1,0 +1,22 @@
+<svg width="900" height="230" viewBox="0 0 900 230" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="body" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="100%" stop-color="#05060d"/>
+  </linearGradient>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.4"/>
+  </filter>
+</defs>
+<rect x="1" y="1" width="898" height="228" rx="14" fill="url(#body)" stroke="#262c38" stroke-width="1.5"/>
+<path d="M1,15 A14,14 0 0 1 15,1 H885 A14,14 0 0 1 899,15 V38 H1 Z" fill="#161b22"/>
+<line x1="0" y1="38" x2="900" y2="38" stroke="#262c38" stroke-width="1"/>
+<circle cx="28" cy="19" r="6.5" fill="#ff5f56"/>
+<circle cx="50" cy="19" r="6.5" fill="#ffbd2e"/>
+<circle cx="72" cy="19" r="6.5" fill="#27c93f"/>
+<text x="450.0" y="24" text-anchor="middle" font-family="Menlo, Fira Code, monospace" font-size="13" fill="#8b949e">taha@piiix &#8212; zsh</text>
+<text x="28" y="76" font-family="Menlo, Fira Code, monospace" font-size="17"><tspan fill="#27c93f">taha@piiix</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#6C63FF">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#c9d1d9">whoami</tspan></text>
+<text x="28" y="116" font-family="Menlo, Fira Code, monospace" font-size="26" font-weight="600" fill="#ffffff">Taha Mahmoodi</text>
+<text x="28" y="150" font-family="Menlo, Fira Code, monospace" font-size="16" fill="#8b949e">Founder <tspan fill="#6C63FF">@</tspan> PIIIX &#183; building in the open</text>
+<text x="28" y="188" font-family="Menlo, Fira Code, monospace" font-size="17" fill="#8b949e">$ <tspan fill="#c9d1d9" filter="url(#softglow)">_</tspan></text>
+</svg>
