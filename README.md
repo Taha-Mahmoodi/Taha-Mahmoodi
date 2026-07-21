@@ -35,18 +35,27 @@ right now:
 
 ## GitHub activity
 
+<br>
+
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Taha-Mahmoodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Mahmoodi&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=Taha-Mahmoodi&theme=tokyonight&hide_border=true" />
-
 <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Taha-Mahmoodi&theme=react-dark&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&hide_border=true" />
 </div>
 
-## Connect
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Taha--Mahmoodi-181717?logo=github&logoColor=white)](https://github.com/Taha-Mahmoodi)
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Taha-Mahmoodi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Mahmoodi&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Taha-Mahmoodi&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+Find the work at [github.com/PIIIX-org](https://github.com/PIIIX-org).
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=100&section=footer" width="100%"/>
