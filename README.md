@@ -26,6 +26,17 @@ Open-source enthusiast. Builder first, title second.
 
 <br>
 
+## Roles
+
+| Role | Where |
+|---|---|
+| Founder | [PIIIX](https://github.com/PIIIX-org) — open-source, AI-native tools |
+| Co-founder | [Cyborg Tech Creative Agency](https://github.com/CyborgTech-co) |
+| CTO | [Third Eye Worldwide](https://teww.org) — assistive tech for blind and low-vision learners |
+| Business & brand consultant | [Alkharazmi](https://github.com/Alkharazmi) |
+
+<br>
+
 ## Stack
 
 <div align="center">
