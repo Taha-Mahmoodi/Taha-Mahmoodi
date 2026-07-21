@@ -118,7 +118,7 @@ Open-source enthusiast. Builder first, title second.
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>RBW</b> — currency-exchange app <code>private</code></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>ROI</b> — exchange-office bookkeeping app <code>private</code></summary>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;A money-exchange application. Private client repository.
