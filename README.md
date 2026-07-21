@@ -102,35 +102,60 @@ Open-source enthusiast. Builder first, title second.
 <br>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>zaryab_backend</b> — client project backend <code>PHP</code></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>hdu</b> — Herat Dental Union website <code>Next.js</code></summary>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/CyborgTech-co/zaryab_backend)
+&nbsp;&nbsp;&nbsp;&nbsp;A Next.js front-end with GSAP and Framer Motion, rendering
+&nbsp;&nbsp;&nbsp;&nbsp;content from a headless WordPress backend. Private repository.
 <br><br>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>HDU-WordPress</b> — client WordPress build <code>PHP</code></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>HDU-WordPress</b> — Herat Dental Union backend <code>WordPress</code></summary>
 <br>
 
+&nbsp;&nbsp;&nbsp;&nbsp;The headless WordPress theme behind the site: custom REST
+&nbsp;&nbsp;&nbsp;&nbsp;endpoints and Advanced Custom Fields serving the front-end.
 &nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/CyborgTech-co/HDU-WordPress)
 <br><br>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>ROI</b> — exchange-office bookkeeping app <code>private</code></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>zaryab</b> — Avaye Zaryab website <code>Next.js</code></summary>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;A money-exchange application. Private client repository.
+&nbsp;&nbsp;&nbsp;&nbsp;A Next.js front-end with GSAP motion, rendering content from
+&nbsp;&nbsp;&nbsp;&nbsp;a headless WordPress backend. Private repository.
 <br><br>
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>zaryab</b> · <b>hdu</b> · <b>canin</b> — more client builds <code>private</code></summary>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>zaryab_backend</b> — Avaye Zaryab backend <code>WordPress</code></summary>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Private agency repositories: two deployed web front-ends
-&nbsp;&nbsp;&nbsp;&nbsp;(JavaScript) and a PHP service.
+&nbsp;&nbsp;&nbsp;&nbsp;A headless WordPress theme using ACF and custom post types
+&nbsp;&nbsp;&nbsp;&nbsp;to serve the front-end over the REST API.
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/CyborgTech-co/zaryab_backend)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>canin</b> — dental clinic management system <code>CodeIgniter</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A full practice-management app: patient records, per-tooth
+&nbsp;&nbsp;&nbsp;&nbsp;charting, lab orders, prescriptions, and billing. Trilingual
+&nbsp;&nbsp;&nbsp;&nbsp;(Farsi, Pashto, English), PWA. Private repository.
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>ROI</b> — exchange-office bookkeeping <code>PHP</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Books for a currency exchange desk: customer ledgers,
+&nbsp;&nbsp;&nbsp;&nbsp;multi-currency balances, receipts, loans, and reports.
+&nbsp;&nbsp;&nbsp;&nbsp;Private repository.
 <br><br>
 </details>
 
