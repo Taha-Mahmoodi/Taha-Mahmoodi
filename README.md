@@ -85,62 +85,6 @@ Open-source enthusiast. Builder first, title second.
 
 </details>
 
-<details>
-<summary>📁&nbsp;&nbsp;<b>solo/</b> — things I built on my own</summary>
-<br>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>atlas-erp</b> — open-source, industry-agnostic ERP <code>Python</code></summary>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;A full ERP built in the open, with SAP S/4HANA as the
-&nbsp;&nbsp;&nbsp;&nbsp;functional benchmark to measure against.
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/atlas-erp)
-<br><br>
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>third-eye-world</b> — voice-first audio social network <code>TypeScript</code></summary>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;A social network you use by ear. The blind user is the
-&nbsp;&nbsp;&nbsp;&nbsp;default user, not an accommodation bolted on afterward.
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/third-eye-world)
-<br><br>
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>LLSGC</b> — local-server control panel <code>Electron</code> <code>React</code></summary>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;A desktop dashboard to monitor, stop, restart, and firewall
-&nbsp;&nbsp;&nbsp;&nbsp;every server bound to a local port. Electron + React + TypeScript.
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/LLSGC)
-<br><br>
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>BFD</b> — bulk font downloader <code>PowerShell</code></summary>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;An open-source, multi-provider desktop and CLI tool for
-&nbsp;&nbsp;&nbsp;&nbsp;downloading fonts in bulk.
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/BFD)
-<br><br>
-</details>
-
-<details>
-<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>claude-usage-dashboard</b> — token-usage dashboard <code>TypeScript</code></summary>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;A personal dashboard tracking Claude Code token usage across
-&nbsp;&nbsp;&nbsp;&nbsp;devices on a shared plan.
-&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/Taha-Mahmoodi/claude-usage-dashboard)
-<br><br>
-</details>
-
-</details>
-
 <br>
 
 ## GitHub activity
