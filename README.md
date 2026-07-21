@@ -6,6 +6,11 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&color=6C63FF&lines=Brand+Strategist;Problem+Solver;Web+Designer;Entrepreneur;Writing+Enthusiast" alt="Typing SVG" />
 
+[![Founder at PIIIX](https://img.shields.io/badge/Founder-PIIIX-6C63FF?style=flat-square)](https://github.com/PIIIX-org)
+[![Co-founder at Cyborg Tech](https://img.shields.io/badge/Co--founder-Cyborg%20Tech-6C63FF?style=flat-square)](https://github.com/CyborgTech-co)
+[![CTO at Third Eye Worldwide](https://img.shields.io/badge/CTO-Third%20Eye%20Worldwide-6C63FF?style=flat-square)](https://teww.org)
+[![Consultant at Alkharazmi](https://img.shields.io/badge/Consultant-Alkharazmi-6C63FF?style=flat-square)](https://github.com/Alkharazmi)
+
 [![GitHub followers](https://img.shields.io/github/followers/Taha-Mahmoodi?label=Follow&style=social)](https://github.com/Taha-Mahmoodi)
 
 </div>
@@ -22,19 +27,6 @@ team needs to move fast rather than wait on four different specialists.
 PIIIX is where all of that lands.
 
 Open-source enthusiast. Builder first, title second.
-
-<br>
-
-## Roles
-
-<div align="center">
-
-[![Founder at PIIIX](https://img.shields.io/badge/Founder-PIIIX-6C63FF?style=flat-square)](https://github.com/PIIIX-org)
-[![Co-founder at Cyborg Tech](https://img.shields.io/badge/Co--founder-Cyborg%20Tech-6C63FF?style=flat-square)](https://github.com/CyborgTech-co)
-[![CTO at Third Eye Worldwide](https://img.shields.io/badge/CTO-Third%20Eye%20Worldwide-6C63FF?style=flat-square)](https://teww.org)
-[![Consultant at Alkharazmi](https://img.shields.io/badge/Consultant-Alkharazmi-6C63FF?style=flat-square)](https://github.com/Alkharazmi)
-
-</div>
 
 <br>
 
