@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&color=6C63FF&lines=Brand+Strategist;Problem+Solver;Web+Designer;Entrepreneur;Writing+Enthusiast" alt="Typing SVG" />
 
-[![PIIIX](https://img.shields.io/badge/PIIIX-Founder-6C63FF)](https://github.com/PIIIX-org)
 [![GitHub followers](https://img.shields.io/github/followers/Taha-Mahmoodi?label=Follow&style=social)](https://github.com/Taha-Mahmoodi)
 
 </div>
@@ -28,12 +27,14 @@ Open-source enthusiast. Builder first, title second.
 
 ## Roles
 
-| Role | Where |
-|---|---|
-| Founder | [PIIIX](https://github.com/PIIIX-org) — open-source, AI-native tools |
-| Co-founder | [Cyborg Tech Creative Agency](https://github.com/CyborgTech-co) |
-| CTO | [Third Eye Worldwide](https://teww.org) — assistive tech for blind and low-vision learners |
-| Business & brand consultant | [Alkharazmi](https://github.com/Alkharazmi) |
+<div align="center">
+
+[![Founder at PIIIX](https://img.shields.io/badge/Founder-PIIIX-6C63FF?style=flat-square)](https://github.com/PIIIX-org)
+[![Co-founder at Cyborg Tech](https://img.shields.io/badge/Co--founder-Cyborg%20Tech-6C63FF?style=flat-square)](https://github.com/CyborgTech-co)
+[![CTO at Third Eye Worldwide](https://img.shields.io/badge/CTO-Third%20Eye%20Worldwide-6C63FF?style=flat-square)](https://teww.org)
+[![Consultant at Alkharazmi](https://img.shields.io/badge/Consultant-Alkharazmi-6C63FF?style=flat-square)](https://github.com/Alkharazmi)
+
+</div>
 
 <br>
 
@@ -91,6 +92,45 @@ Open-source enthusiast. Builder first, title second.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Private repository. 37 pull requests shipped, running live
 &nbsp;&nbsp;&nbsp;&nbsp;inside Chapters today: 60fps at 371,000 notes.
+<br><br>
+</details>
+
+</details>
+
+<details>
+<summary>📁&nbsp;&nbsp;<b>cyborg-tech/</b> — creative agency I co-founded, client work</summary>
+<br>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>zaryab_backend</b> — client project backend <code>PHP</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/CyborgTech-co/zaryab_backend)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;📁&nbsp;&nbsp;<b>HDU-WordPress</b> — client WordPress build <code>PHP</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[→ open repository](https://github.com/CyborgTech-co/HDU-WordPress)
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>RBW</b> — currency-exchange app <code>private</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;A money-exchange application. Private client repository.
+<br><br>
+</details>
+
+<details>
+<summary>&nbsp;&nbsp;&nbsp;&nbsp;🔒&nbsp;&nbsp;<b>zaryab</b> · <b>hdu</b> · <b>canin</b> — more client builds <code>private</code></summary>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;Private agency repositories: two deployed web front-ends
+&nbsp;&nbsp;&nbsp;&nbsp;(JavaScript) and a PHP service.
 <br><br>
 </details>
 
