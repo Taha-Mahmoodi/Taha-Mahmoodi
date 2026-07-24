@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/terminal_header.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/terminal_header.svg" width="100%" alt="Terminal window: taha@piiix runs whoami, printing Taha Mahmoodi, Founder at PIIIX, building in the open"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&color=6C63FF&lines=Brand+Strategist;Problem+Solver;Web+Designer;Entrepreneur;Writing+Enthusiast" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/cycle.svg" width="600" alt="Brand Strategist, Problem Solver, Web Designer, Entrepreneur, Writing Enthusiast" />
 
 [![Founder at PIIIX](https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/badges/piiix.svg)](https://github.com/PIIIX-org)
 [![Co-founder at Cyborg Tech](https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/badges/cyborg.svg)](https://github.com/CyborgTech-co)
@@ -152,7 +152,7 @@ A year of real commits, mapped to a night sky: each active day is a star
 rising from the timeline, brighter and higher the more I shipped that day.
 
 <div align="center">
-<img width="97%" src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/startimeline.svg"/>
+<img width="97%" src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/startimeline.svg" alt="A year of commits mapped to a night sky: each active day is a star rising from a timeline, brighter and higher on busier days. Refreshes weekly."/>
 </div>
 
 <br>
@@ -164,5 +164,8 @@ rising from the timeline, brighter and higher the more I shipped that day.
 Find the work at [github.com/PIIIX-org](https://github.com/PIIIX-org).
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/footer.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Taha-Mahmoodi/Taha-Mahmoodi/main/assets/footer.svg" width="100%" alt=""/>
 </div>
+
+<!-- forged-with: git-a-profile -->
+<sub>Forged with <a href="https://github.com/PIIIX-org/git-a-profile">git-a-profile</a> · <a href="https://github.com/PIIIX-org">PIIIX</a> · activity refreshes weekly</sub>
